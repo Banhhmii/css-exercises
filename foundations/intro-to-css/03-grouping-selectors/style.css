@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.odd {
+    background-color: black;
+    color: white;
+}
+
+.even {
+    background-color: yellow
+}
+
+.font {
+    font-size: 20px;
+    font-family: "Helvetica", "Times New Roman", sans-serif
+}
